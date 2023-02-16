@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7451abe2-5465-452d-af47-4238e2916215" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="2I6xfFuTSw2bmxSYgmRrKplsD26" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.lianjiascrap2">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python" singleton="false">
+      <module name="Py_Scrap House" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\DKE\OneDrive\Py_Scrap House\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lianjia scrap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lianjia scrap" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
+      <module name="Py_Scrap House" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\DKE\miniconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lianjia scrap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lianjiascrap2" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="Py_Scrap House" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\DKE\OneDrive\Py_Scrap House\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lianjiascrap2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
+      <module name="Py_Scrap House" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\DKE\OneDrive\Py_Scrap House\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.lianjia scrap" />
+      <item itemvalue="Python.lianjiascrap2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lianjiascrap2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7451abe2-5465-452d-af47-4238e2916215" name="Default Changelist" comment="" />
+      <created>1669515935454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669515935454</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Inspections" timestamp="1669535343415">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1669535343415" />
+    <state x="158" y="-983" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1669724424733">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="158" y="-983" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1097.577/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1669724424733" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1669534973458" />
+    <state x="228" y="-905" width="438" height="471" key="FileChooserDialogImpl" timestamp="1669712965378">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="228" y="-905" key="FileChooserDialogImpl/0.0.1097.577/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1669712965378" />
+    <state x="152" y="110" width="438" height="471" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1669533457809" />
+    <state width="1899" height="347" key="GridCell.Tab.0.bottom" timestamp="1669724478027">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.0.bottom/0.0.1097.577/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1669724478027" />
+    <state width="1259" height="369" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1669607919286" />
+    <state width="1899" height="347" key="GridCell.Tab.0.center" timestamp="1669724478027">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.0.center/0.0.1097.577/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1669724478027" />
+    <state width="1259" height="369" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1669607919286" />
+    <state width="1899" height="347" key="GridCell.Tab.0.left" timestamp="1669724478027">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.0.left/0.0.1097.577/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1669724478027" />
+    <state width="1259" height="369" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1669607919285" />
+    <state width="1899" height="347" key="GridCell.Tab.0.right" timestamp="1669724478027">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.0.right/0.0.1097.577/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1669724478027" />
+    <state width="1259" height="369" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1669607919286" />
+    <state x="602" y="-895" key="SettingsEditor" timestamp="1669723966535">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="602" y="-895" key="SettingsEditor/0.0.1097.577/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1669723966535" />
+    <state x="154" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1669535602347" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1669539219290">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1669539219290" />
+  </component>
+</project>

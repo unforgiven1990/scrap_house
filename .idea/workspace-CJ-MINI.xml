@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7451abe2-5465-452d-af47-4238e2916215" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="2I6xfFuTSw2bmxSYgmRrKplsD26" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Py_Stock" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.lianjia scrap">
+    <configuration name="Rental" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
+      <module name="Py_Scrap House" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\DKE\OneDrive\Py_Scrap House\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rental.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python" singleton="false">
+      <module name="Py_Scrap House" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\DKE\OneDrive\Py_Scrap House\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lianjia scrap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lianjia scrap" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
+      <module name="Py_Scrap House" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\DKE\miniconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lianjia scrap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="Py_Scrap House" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\DKE\OneDrive\Py_Scrap House\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Rental" />
+      <item itemvalue="Python.lianjia scrap" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7451abe2-5465-452d-af47-4238e2916215" name="Default Changelist" comment="" />
+      <created>1669515935454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669515935454</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Inspections" timestamp="1669535343415">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1669535343415" />
+    <state x="2016" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1669970120990">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="-1080" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1097.577/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1669724077525" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1669902820587" />
+    <state x="2016" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1280.680/0.0.1280.680@1920.0.1280.680" timestamp="1669970120990" />
+    <state x="152" y="110" width="438" height="471" key="FileChooserDialogImpl" timestamp="1671350929302">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="228" y="-905" key="FileChooserDialogImpl/0.0.1097.577/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1669712965378" />
+    <state x="152" y="110" width="438" height="471" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1671350929302" />
+    <state width="1259" height="47" key="GridCell.Tab.0.bottom" timestamp="1671323724493">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="143" key="GridCell.Tab.0.bottom/-1920.0.1280.673/0.0.1097.577@-1920.0.1280.673" timestamp="1670483021311" />
+    <state width="1076" height="169" key="GridCell.Tab.0.bottom/-1920.0.1280.673/0.0.1097.577@0.0.1097.577" timestamp="1670502098297" />
+    <state width="1259" height="175" key="GridCell.Tab.0.bottom/0.-1080.1280.673/-1920.-548.1280.720/0.0.1097.577@-1920.-548.1280.720" timestamp="1669807965921" />
+    <state width="1899" height="310" key="GridCell.Tab.0.bottom/0.0.1097.577/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1669724155944" />
+    <state width="1259" height="47" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1671323724493" />
+    <state width="1259" height="175" key="GridCell.Tab.0.bottom/1920.0.1280.680/0.0.1280.680@1920.0.1280.680" timestamp="1670050136952" />
+    <state width="1259" height="47" key="GridCell.Tab.0.center" timestamp="1671323724493">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="143" key="GridCell.Tab.0.center/-1920.0.1280.673/0.0.1097.577@-1920.0.1280.673" timestamp="1670483021311" />
+    <state width="1076" height="169" key="GridCell.Tab.0.center/-1920.0.1280.673/0.0.1097.577@0.0.1097.577" timestamp="1670502098296" />
+    <state width="1259" height="175" key="GridCell.Tab.0.center/0.-1080.1280.673/-1920.-548.1280.720/0.0.1097.577@-1920.-548.1280.720" timestamp="1669807965921" />
+    <state width="1899" height="310" key="GridCell.Tab.0.center/0.0.1097.577/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1669724155944" />
+    <state width="1259" height="47" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1671323724493" />
+    <state width="1259" height="175" key="GridCell.Tab.0.center/1920.0.1280.680/0.0.1280.680@1920.0.1280.680" timestamp="1670050136952" />
+    <state width="1259" height="47" key="GridCell.Tab.0.left" timestamp="1671323724488">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="143" key="GridCell.Tab.0.left/-1920.0.1280.673/0.0.1097.577@-1920.0.1280.673" timestamp="1670483021311" />
+    <state width="1076" height="169" key="GridCell.Tab.0.left/-1920.0.1280.673/0.0.1097.577@0.0.1097.577" timestamp="1670502098296" />
+    <state width="1259" height="175" key="GridCell.Tab.0.left/0.-1080.1280.673/-1920.-548.1280.720/0.0.1097.577@-1920.-548.1280.720" timestamp="1669807965921" />
+    <state width="1899" height="310" key="GridCell.Tab.0.left/0.0.1097.577/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1669724155944" />
+    <state width="1259" height="47" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1671323724488" />
+    <state width="1259" height="175" key="GridCell.Tab.0.left/1920.0.1280.680/0.0.1280.680@1920.0.1280.680" timestamp="1670050136951" />
+    <state width="1259" height="47" key="GridCell.Tab.0.right" timestamp="1671323724493">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="143" key="GridCell.Tab.0.right/-1920.0.1280.673/0.0.1097.577@-1920.0.1280.673" timestamp="1670483021311" />
+    <state width="1076" height="169" key="GridCell.Tab.0.right/-1920.0.1280.673/0.0.1097.577@0.0.1097.577" timestamp="1670502098296" />
+    <state width="1259" height="175" key="GridCell.Tab.0.right/0.-1080.1280.673/-1920.-548.1280.720/0.0.1097.577@-1920.-548.1280.720" timestamp="1669807965921" />
+    <state width="1899" height="310" key="GridCell.Tab.0.right/0.0.1097.577/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1669724155944" />
+    <state width="1259" height="47" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1671323724493" />
+    <state width="1259" height="175" key="GridCell.Tab.0.right/1920.0.1280.680/0.0.1280.680@1920.0.1280.680" timestamp="1670050136952" />
+    <state width="1259" height="220" key="GridCell.Tab.1.bottom" timestamp="1669861845540">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.1.bottom/1920.0.1280.680/0.0.1280.680@1920.0.1280.680" timestamp="1669861845540" />
+    <state width="1259" height="220" key="GridCell.Tab.1.center" timestamp="1669861845540">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.1.center/1920.0.1280.680/0.0.1280.680@1920.0.1280.680" timestamp="1669861845540" />
+    <state width="1259" height="220" key="GridCell.Tab.1.left" timestamp="1669861845540">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.1.left/1920.0.1280.680/0.0.1280.680@1920.0.1280.680" timestamp="1669861845540" />
+    <state width="1259" height="220" key="GridCell.Tab.1.right" timestamp="1669861845540">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.1.right/1920.0.1280.680/0.0.1280.680@1920.0.1280.680" timestamp="1669861845540" />
+    <state x="45" y="0" key="SettingsEditor" timestamp="1671685838575">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="602" y="-895" key="SettingsEditor/0.0.1097.577/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1669723966535" />
+    <state x="45" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1671685838575" />
+    <state x="1965" y="0" key="SettingsEditor/1920.0.1280.680/0.0.1280.680@1920.0.1280.680" timestamp="1669970102707" />
+    <state x="-1617" y="1" width="672" height="672" key="search.everywhere.popup" timestamp="1670482787995">
+      <screen x="-1920" y="0" width="1280" height="673" />
+    </state>
+    <state x="-1617" y="1" width="672" height="672" key="search.everywhere.popup/-1920.0.1280.673/0.0.1097.577@-1920.0.1280.673" timestamp="1670482787995" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1669905084332" />
+    <state x="2223" y="1" width="672" height="678" key="search.everywhere.popup/1920.0.1280.680/0.0.1280.680@1920.0.1280.680" timestamp="1669872390101" />
+  </component>
+</project>
